@@ -25,3 +25,66 @@ h1 {
     border-radius: 10px;
 
 }
+
+.today {
+    text-align: center;
+}
+
+.tk {
+    display: flex;
+    text-align: center;
+}
+
+.tk1 {
+    width: 12%;
+    padding-left: 6%;
+    padding-right: 2%;
+}
+
+.tk2 {
+    border: 2px solid red;
+    padding: 2px 5px;
+    background-color: silver;
+    color: red;
+}
+
+hr {
+    width: 60%;
+}
+
+#input {
+    text-decoration: none;
+    text-align: center;
+}
+
+.plane {
+    text-align: center;
+}
+
+.icon {
+    border: 1px solid;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 30px;
+    margin-right: 20px;
+
+}
+
+.icon1 {
+    display: flex;
+
+
+
+}
+
+#ic1 {
+    background-color: darkgray;
+}
+
+#ic2 {
+    background-color: hotpink;
+}
+
+#ic3 {
+    background-color: darkgray;
+}
