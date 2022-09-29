@@ -6,3 +6,22 @@ body {
 h1 {
     font-size: 40px;
 }
+
+.donate {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 10% 10%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: red;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
