@@ -102,3 +102,36 @@ hr {
 .updates {
     text-align: center;
 }
+
+.email {
+    border: 2px solid cadetblue;
+    border-width: 60px;
+    text-decoration: none;
+    background-color: cadetblue;
+    border-radius: 10px;
+    height: 50px;
+
+}
+
+#email {
+    height: 2em;
+    width: 20em;
+}
+
+#submit {
+    background-color: red;
+    border-radius: 5px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+}
+
+#hum {
+    color: white;
+}
+
+#life {
+    color: red;
+}
