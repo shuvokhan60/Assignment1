@@ -88,3 +88,17 @@ hr {
 #ic3 {
     background-color: darkgray;
 }
+
+.contribute {
+    display: flex;
+}
+
+.contribute1 {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.updates {
+    text-align: center;
+}
